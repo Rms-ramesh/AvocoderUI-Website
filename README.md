@@ -1,8 +1,6 @@
 # 🥑 AvocoderUI
 
-[![npm version](https://img.shields.io/npm/v/avocoder-ui-library)](https://www.npmjs.com/package/avocoder-ui-library)  
-[![License](https://img.shields.io/github/license/Rms-ramesh/AvocoderUI-Website)](LICENSE)  
-[![Build](https://img.shields.io/github/actions/workflow/status/Rms-ramesh/AvocoderUI-Website/main.yml?branch=main)](https://github.com/Rms-ramesh/AvocoderUI-Website/actions)  
+
 
 **AvocoderUI** is a modern, lightweight, and modular UI component library inspired by Tailwind CSS. Build stunning, responsive interfaces quickly using utility-first classes and ready-to-use components.  
 
