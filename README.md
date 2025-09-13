@@ -1,12 +1,36 @@
-# React + Vite
+# 🥑 AvocoderUI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![npm version](https://img.shields.io/npm/v/avocoder-ui-library)](https://www.npmjs.com/package/avocoder-ui-library)  
+[![License](https://img.shields.io/github/license/Rms-ramesh/AvocoderUI-Website)](LICENSE)  
+[![Build](https://img.shields.io/github/actions/workflow/status/Rms-ramesh/AvocoderUI-Website/main.yml?branch=main)](https://github.com/Rms-ramesh/AvocoderUI-Website/actions)  
 
-Currently, two official plugins are available:
+**AvocoderUI** is a modern, lightweight, and modular UI component library inspired by Tailwind CSS. Build stunning, responsive interfaces quickly using utility-first classes and ready-to-use components.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🌟 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Utility-first CSS similar to Tailwind  
+- Fully responsive and mobile-friendly  
+- Pre-built UI components: Buttons, Cards, Alerts, Modals, Forms, etc.  
+- Dark mode support  
+- Lightweight and modular — only include what you need  
+- Easy to integrate with any frontend framework  
+
+---
+
+## 🚀 Installation
+
+### **Via NPM**
+
+```bash
+npm install avocoder-ui-library
+
+Add the CSS to your project:
+// main.jsx or index.js
+import "avocoder-ui-library/dist/assets/index-1y757Gk-.css";
+
+
+via CDN
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/avocoder-ui-library@1.0.2/dist/assets/index-B053_CXX.css" />
+
